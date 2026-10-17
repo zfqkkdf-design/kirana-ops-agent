@@ -1,0 +1,12 @@
+langchain
+langchain-anthropic
+langchain-google-genai
+python-telegram-bot[job-queue]
+sqlmodel
+python-pptx
+matplotlib
+weasyprint
+Pillow
+pydantic
+python-dotenv
+pyzbar
