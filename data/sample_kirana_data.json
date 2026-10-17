@@ -1,0 +1,22 @@
+{
+  "store_name": "Kirana Store",
+  "period_label": "Q3 2026",
+  "report_date": "2026-07-13",
+  "financials": {
+    "total_revenue": 2979.92,
+    "sales_count": 8,
+    "subtotal": 2666.00,
+    "cgst": 156.96,
+    "sgst": 156.96
+  },
+  "top_items": [
+    {"name": "Maggi 70g", "qty_sold": 78.0, "revenue": 546.00},
+    {"name": "Amul Butter 100g", "qty_sold": 25.0, "revenue": 1250.00},
+    {"name": "Tata Salt 1kg", "qty_sold": 2.0, "revenue": 40.00}
+  ],
+  "inventory_alerts": [
+    {"name": "Lays Chips", "qty": 0.0, "reorder_level": 5.0},
+    {"name": "Y", "qty": 0.0, "reorder_level": 5.0},
+    {"name": "Amul Butter 100g", "qty": 5.0, "reorder_level": 6.0}
+  ]
+}
